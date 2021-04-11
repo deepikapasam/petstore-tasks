@@ -1,0 +1,18 @@
+{
+  "id": 9,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "Husky",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}

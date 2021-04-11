@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22073" started-at="2021-04-11T07:28:33Z" finished-at="2021-04-11T07:28:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22073" started-at="2021-04-11T07:28:33Z" finished-at="2021-04-11T07:28:55Z">
+      <class name="Deepika_API.Deepika_API.Runner">
+        <test-method status="PASS" signature="create_Pet()[pri:0, instance:Deepika_API.Deepika_API.Runner@1b604f19]" name="create_Pet" duration-ms="2485" started-at="2021-04-11T12:58:33Z" finished-at="2021-04-11T12:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Pet -->
+        <test-method status="PASS" signature="get()[pri:1, instance:Deepika_API.Deepika_API.Runner@1b604f19]" name="get" duration-ms="19541" started-at="2021-04-11T12:58:35Z" finished-at="2021-04-11T12:58:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+      </class> <!-- Deepika_API.Deepika_API.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
